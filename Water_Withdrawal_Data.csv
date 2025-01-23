@@ -1,0 +1,88 @@
+Final_Water_Withdrawal_Data_Including_Samsung
+Company,Data Center Location,Water Withdrawal Usage (Million Gallons),Year,Label
+Google,"Council Bluffs, IA",1334.9,2023,"Council Bluffs, IA (2023)"
+Google,"Mayes County, OK",1037.1,2023,"Mayes County, OK (2023)"
+Google,"Berkeley County, SC",847.2,2023,"Berkeley County, SC (2023)"
+Google,"Douglas County, GA",418.8,2023,"Douglas County, GA (2023)"
+Google,"The Dalles, OR",383.7,2023,"The Dalles, OR (2023)"
+Google,"Lenoir, NC",358.1,2023,"Lenoir, NC (2023)"
+Google,"St. Ghislain, Belgium",348.9,2023,"St. Ghislain, Belgium (2023)"
+Google,"Montgomery County, TN",342.0,2023,"Montgomery County, TN (2023)"
+Google,"Eemshaven, Netherlands",296.4,2023,"Eemshaven, Netherlands (2023)"
+Google,"Henderson, NV",273.8,2023,"Henderson, NV (2023)"
+Google,"Leesburg, VA",246.8,2023,"Leesburg, VA (2023)"
+Google,"Quilicura, Chile",190.7,2023,"Quilicura, Chile (2023)"
+Google,"Midlothian, TX",164.3,2023,"Midlothian, TX (2023)"
+Google,"Papillion, NE",164.2,2023,"Papillion, NE (2023)"
+Google,"Jackson County, AL",159.8,2023,"Jackson County, AL (2023)"
+Meta,"Altoona, IA",199.378,2022,"Altoona, IA (2022)"
+Meta,"Clonee, Ireland",838.654,2022,"Clonee, Ireland (2022)"
+Meta,"Dekalb, IL",29.659,2022,"Dekalb, IL (2022)"
+Meta,"Eagle Mountain, UT",89.366,2022,"Eagle Mountain, UT (2022)"
+Meta,"Forest City, NC",62.853,2022,"Forest City, NC (2022)"
+Meta,"Fort Worth, TX",346.115,2022,"Fort Worth, TX (2022)"
+Meta,"Gallatin, TN",0.0,2022,"Gallatin, TN (2022)"
+Meta,"Richmond, VA",54.994,2022,"Richmond, VA (2022)"
+Meta,"Huntsville, AL",103.501,2022,"Huntsville, AL (2022)"
+Meta,"Los Lunas, NM",161.436,2022,"Los Lunas, NM (2022)"
+Meta,"Luleå, Sweden",25.358,2022,"Luleå, Sweden (2022)"
+Meta,"New Albany, OH",87.415,2022,"New Albany, OH (2022)"
+Meta,"Papillion, NE",100.912,2022,"Papillion, NE (2022)"
+Microsoft,Asia,1553.3313600000000,2023,Asia (2023)
+Microsoft,"Europe, Middle East, Africa",598.085408,2023,"Europe, Middle East, Africa (2023)"
+Microsoft,Latin America,127.85924800000000,2023,Latin America (2023)
+Microsoft,North America,1553.3313600000000,2023,North America (2023)
+Meta,"Altoona, IA",28.002232000000000,2017,
+Meta,"Altoona, IA",36.719908000000000,2018,
+Meta,"Altoona, IA",38.30494,2019,
+Meta,"Altoona, IA",39.889972,2020,
+Meta,"Altoona, IA",37.045103732,2021,
+Meta,"Altoona, IA",52.670085016,2022,
+Meta,"Clonee, Ireland",2.6417200000000000,2017,
+Meta,"Clonee, Ireland",49.664336000000000,2018,
+Meta,"Clonee, Ireland",104.34794000000000,2019,
+Meta,"Clonee, Ireland",162.46578000000000,2020,
+Meta,"Clonee, Ireland",245.128897208,2021,
+Meta,"Clonee, Ireland",221.548904488,2022,
+Meta,"Dekalb, IL",0.0,2017,
+Meta,"Dekalb, IL",7.835077348,2022,
+Meta,"Eagle Mountain, UT",0.0,2020,
+Meta,"Eagle Mountain, UT",23.607994952000000,2022,
+Meta,"Forest City, NC",34.078188000000000,2017,
+Meta,"Forest City, NC",26.153028000000000,2018,
+Meta,"Forest City, NC",22.454620000000000,2019,
+Meta,"Forest City, NC",17.963696000000000,2020,
+Meta,"Forest City, NC",16.921009116,2021,
+Meta,"Forest City, NC",16.604002716,2022,
+Meta,"Fort Worth, TX",25.888856,2017,
+Meta,"Fort Worth, TX",71.062268,2018,
+Meta,"Fort Worth, TX",85.063384,2019,
+Meta,"Fort Worth, TX",79.25160000000000,2020,
+Meta,"Fort Worth, TX",66.97288544000000,2021,
+Meta,"Fort Worth, TX",91.43389178000000,2022,
+Meta,"Gallatin, TN",0.0,2020,
+Meta,"Gallatin, TN",0.0,2022,
+Meta,"Richmond, VA",0.0,2020,
+Meta,"Richmond, VA",11.095224,2022,
+Meta,"Huntsville, AL",10.175905440000000,2021,
+Meta,"Huntsville, AL",27.342066172000000,2022,
+Meta,"Los Lunas, NM",6.6043,2017,
+Meta,"Los Lunas, NM",24.303824000000000,2018,
+Meta,"Los Lunas, NM",36.984080000000000,2019,
+Meta,"Los Lunas, NM",40.330082552,2020,
+Meta,"Los Lunas, NM",42.646870992000000,2021,
+Meta,"Los Lunas, NM",36.984080000000000,2022,
+Meta,"Luleå, Sweden",17.435352,2017,
+Meta,"Luleå, Sweden",14.001116000000000,2018,
+Meta,"Luleå, Sweden",15.321976000000000,2019,
+Meta,"Luleå, Sweden",12.944428,2020,
+Meta,"Luleå, Sweden",10.282102584,2021,
+Meta,"Luleå, Sweden",6.698873576,2022,
+Meta,"Odense, Denmark",70.26975200000000,2017,
+Meta,"Odense, Denmark",95.10192,2018,
+Samsung,Site in China,4649.691372,2022,
+Samsung,Site in the United States,2691.91268,2022,
+Samsung,"Site in Hwaseong, Korea",13482.810536,2022,
+Samsung,"Site in Pyeongtaek, Korea",12392.044348000000,2022,
+Samsung,"Site in Giheung, Korea",5930.6614,2022,
+Samsung,"Sites in Onyang and Cheonan, Korea",1316.8974200000000,2022,
